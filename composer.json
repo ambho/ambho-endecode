@@ -1,0 +1,19 @@
+{
+    "name": "ambho/endecode",
+    "description": "This is for encyption and decryption code",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mahadev",
+            "email": "msrnk789@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ambho\\Endecode\\": "src/"
+        }
+    }
+}
