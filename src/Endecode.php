@@ -1,6 +1,6 @@
-<?php 
+<?php
 
-namespace endecode;
+namespace ambho\endecode;
 
 class Endecode
 {
